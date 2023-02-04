@@ -1,0 +1,59 @@
+{
+	"storyName": "Bonus Songs",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"B3 Blammed",
+			"pico",
+			[
+				148,
+				22,
+				83
+			]
+		],
+		[
+			"Roses RS",
+			"senpai-angry-pixel",
+			[
+				255,
+				120,
+				191
+			]
+		],
+		[
+			"High x Boyfriend",
+			"coolbf",
+			[
+				83,
+				171,
+				252
+			]
+		],
+		[
+			"Fresh (Boyfriend Remix)",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Bonus Songs"
+}
